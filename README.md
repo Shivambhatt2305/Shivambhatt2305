@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**Shivambhatt2305/Shivambhatt2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 👋 About Me<br>🎯 I’m currently working on<br>Sharpening my skills in software development, problem-solving, and building a strong foundation in core computer science concepts.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, learning groups, or innovative ideas where I can contribute and grow alongside others.<br><br>🧠 I’m looking for help with<br>Understanding advanced data structures & algorithms, writing clean and efficient code, and exploring best practices in full-stack development.<br><br>🌱 I’m currently learning<br>Python, JavaScript, Git & GitHub, and diving deeper into Artificial Intelligence and machine learning fundamentals.<br><br>💬 Ask me about<br>Coding practices, debugging tips, learning resources, or anything tech-related that you're curious about!<br><br>⚡ Fun fact<br>I love solving puzzles and challenges — whether it's a coding problem or a brain teaser, I'm always up for it!
 
 
@@ -23,11 +16,3 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Shivambhatt2305&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
